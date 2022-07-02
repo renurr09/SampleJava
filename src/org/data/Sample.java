@@ -7,6 +7,11 @@ public class Sample {
 		System.out.println("Anu code added");
 	}
 	
+	private void m1() {
+
+		System.out.println("Abi code added");
+	}
+	
 	public static void main(String[] args) {
 		
 		
