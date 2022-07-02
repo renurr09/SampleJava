@@ -2,6 +2,15 @@ package org.data;
 
 public class Sample {
 	
+	private void m2() {
+
+		System.out.println("Anu code added");
+	}
+	
+	private void m1() {
+
+		System.out.println("Abi code added");
+	}
 	
 	private void m3() {
 
